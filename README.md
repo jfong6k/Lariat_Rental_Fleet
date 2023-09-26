@@ -1,2 +1,2 @@
-# data_analytics_projects
-data_analytics_projects
+# Capstone_1_Lariat
+Capstone_1_Lariat
